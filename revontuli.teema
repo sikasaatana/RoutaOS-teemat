@@ -1,0 +1,19 @@
+# RoutaOS-teema
+nimi=Revontuli
+tekija=Jesse Väisänen
+versio=1.0
+kuvaus=Tumma yötaivas ja vihreä revontulien hehku
+kuva=revontuli.jpg
+taustakuva=revontuli-tausta.jpg
+tausta=#0B1622
+otsikko=#1D5C4E
+otsikko_passiivinen=#13222E
+ikkuna=#101C26
+reuna=#3DDC97
+reuna_passiivinen=#24384A
+teksti=#E2F1EC
+teksti_himmea=#7C9A94
+sulje=#FF6B6B
+paneeli=#08111A
+paneeli_teksti=#B8D8CF
+korostus=#3DDC97

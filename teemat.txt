@@ -1,0 +1,205 @@
+# RoutaOS-teemat (tools/teemat/tee_luettelo.py)
+
+[hamara]
+nimi=Hämärä
+tekija=Jesse Väisänen
+versio=1.0
+kuvaus=Violetti iltahämärä ja kuunsirppi
+kuva=hamara.jpg
+taustakuva=hamara-tausta.jpg
+tausta=#2A1A40
+otsikko=#5A3A82
+otsikko_passiivinen=#2E2044
+ikkuna=#231835
+reuna=#E08AB0
+reuna_passiivinen=#45335E
+teksti=#EFE6FA
+teksti_himmea=#A291BA
+sulje=#F0708A
+paneeli=#170F24
+paneeli_teksti=#CDBEE2
+korostus=#E08AB0
+kuva_sha256=a8e3da68ad14e345d93abab7f2ebeaeb80f9fb58982b3f997bc653eaf504ef76
+taustakuva_sha256=ec62d361720b05eb6118e88ed72e82fc0a82b7772f7a76deb56e5d86850a1a65
+
+[juhannus]
+nimi=Juhannus
+tekija=Jesse Väisänen
+versio=1.0
+kuvaus=Yötön yö: vaalea kulta ja järven hehku
+kuva=juhannus.jpg
+taustakuva=juhannus-tausta.jpg
+tausta=#FBE7C8
+otsikko=#C98A4A
+otsikko_passiivinen=#EED9BE
+ikkuna=#FFF8EE
+reuna=#B8742E
+reuna_passiivinen=#E2CBAE
+teksti=#3A2A1C
+teksti_himmea=#7E6650
+sulje=#C8463A
+paneeli=#F6E4CC
+paneeli_teksti=#4A3624
+korostus=#C47A30
+kuva_sha256=b9792a56d797826c992b75088be2bba9895f2b1b0e6170d435fd126fb494c245
+taustakuva_sha256=2ec2bacaec7e4fd380ccc014e718e00f76920e9b43f31c97030d85f2c588aba8
+
+[kaamos]
+nimi=Kaamos
+tekija=Jesse Väisänen
+versio=1.0
+kuvaus=Syvä sininen kaamosyö ja oranssi katuvalo
+kuva=kaamos.jpg
+taustakuva=kaamos-tausta.jpg
+tausta=#0E1030
+ikkuna=#15183A
+teksti=#E6E4F5
+korostus=#F2A65A
+kuva_sha256=be28e9388dd85a9d2d7442f4c68f64be09186e81171a3b62ed2779bc74e04c92
+taustakuva_sha256=13290e9ccdf16f848118f1323bc92eb79961e047df9942712dce327da0ba50c2
+
+[lumi]
+nimi=Lumi
+tekija=Jesse Väisänen
+versio=1.0
+kuvaus=Puhtaan valkoinen ja hiljainen
+kuva=lumi.jpg
+taustakuva=lumi-tausta.jpg
+tausta=#EEF3F9
+ikkuna=#FFFFFF
+teksti=#22303E
+korostus=#5B8DC8
+kuva_sha256=01295d3885432e3e6cee1d321c01ec44d0cfbff420be19ce8b6990de926d1686
+taustakuva_sha256=0358d85099738cb8e18645e668f2dbd4f372e243d87a8bfbdd94b12611df0242
+
+[metsa]
+nimi=Metsä
+tekija=Jesse Väisänen
+versio=1.0
+kuvaus=Usvainen kuusimetsä
+kuva=metsa.jpg
+taustakuva=metsa-tausta.jpg
+tausta=#1E3A2A
+otsikko=#2F5A44
+otsikko_passiivinen=#1C3326
+ikkuna=#16281E
+reuna=#8FC79A
+reuna_passiivinen=#2E4A3A
+teksti=#E2EFE4
+teksti_himmea=#8AA894
+sulje=#E07060
+paneeli=#0F1E16
+paneeli_teksti=#B8D4BE
+korostus=#8FC79A
+kuva_sha256=9b61883fa459e76e75a5cd171098f92a018bc87b3d38b00cdc000446d0b1a4b9
+taustakuva_sha256=c1573174b49f13638aeac1f6493b6c3c9f29c90aff19d6d08dacba3719665bae
+
+[revontuli]
+nimi=Revontuli
+tekija=Jesse Väisänen
+versio=1.0
+kuvaus=Tumma yötaivas ja vihreä revontulien hehku
+kuva=revontuli.jpg
+taustakuva=revontuli-tausta.jpg
+tausta=#0B1622
+otsikko=#1D5C4E
+otsikko_passiivinen=#13222E
+ikkuna=#101C26
+reuna=#3DDC97
+reuna_passiivinen=#24384A
+teksti=#E2F1EC
+teksti_himmea=#7C9A94
+sulje=#FF6B6B
+paneeli=#08111A
+paneeli_teksti=#B8D8CF
+korostus=#3DDC97
+kuva_sha256=7b13c3803a01dd2718ad9c7dba0bd60ffaacd263b56f922af27bb5b32ac1f66c
+taustakuva_sha256=34f3b3533888c31ea7aaf9d4f6bec1888bddbb1900d4a8b151d5a551d73652db
+
+[ruska]
+nimi=Ruska
+tekija=Jesse Väisänen
+versio=1.0
+kuvaus=Syksyn ruska: lämmin ruskea ja oranssi
+kuva=ruska.jpg
+taustakuva=ruska-tausta.jpg
+tausta=#2A1810
+otsikko=#7A3418
+otsikko_passiivinen=#3A2418
+ikkuna=#2F1E16
+reuna=#E8742C
+reuna_passiivinen=#5A3B2A
+teksti=#F6E3D3
+teksti_himmea=#B08C74
+sulje=#D9483B
+paneeli=#1E110B
+paneeli_teksti=#E2C2A8
+korostus=#F0A030
+kuva_sha256=61387ae5525c312277780297e4bd88573740c4d11bc73cdd6e8126c712d9c2ab
+taustakuva_sha256=04de4752aedbe63c3680f5770366b2854cbd6617ecf6fa954b31e3c79a2d4d7e
+
+[saaristo]
+nimi=Saaristo
+tekija=Jesse Väisänen
+versio=1.0
+kuvaus=Meri, luodot ja auringonlasku
+kuva=saaristo.jpg
+taustakuva=saaristo-tausta.jpg
+tausta=#0F3A4A
+otsikko=#1F5E6E
+otsikko_passiivinen=#143844
+ikkuna=#102E3A
+reuna=#F0A878
+reuna_passiivinen=#2A4E5A
+teksti=#E6F2F2
+teksti_himmea=#88A8AE
+sulje=#F07060
+paneeli=#0A222C
+paneeli_teksti=#BFD8DA
+korostus=#F0A878
+kuva_sha256=d2c6af77de60fd1257fea52531af565d39e547afd675baa3b22edbefdfc6e892
+taustakuva_sha256=e027f6c9b7d888554e2e612e5ab7240b2a410bc1dec34cf28a258747d3ef3d2a
+
+[sauna]
+nimi=Sauna
+tekija=Jesse Väisänen
+versio=1.0
+kuvaus=Tumma puu ja kiukaan hehku
+kuva=sauna.jpg
+taustakuva=sauna-tausta.jpg
+tausta=#2A170E
+otsikko=#6A3A20
+otsikko_passiivinen=#2E1C12
+ikkuna=#24150D
+reuna=#E8742C
+reuna_passiivinen=#4A3020
+teksti=#F4E4D6
+teksti_himmea=#B0927C
+sulje=#E0503C
+paneeli=#160C07
+paneeli_teksti=#DCC2AC
+korostus=#F09040
+kuva_sha256=8e15a3727e553fb8fa76f72596d7ce837df9a35e7a89acd62ec85798b7d8d39a
+taustakuva_sha256=b58269f57424dcdd421263711de1de365aa0cae440209b30a130dc78b6a3d6a5
+
+[tunturi]
+nimi=Tunturi
+tekija=Jesse Väisänen
+versio=1.0
+kuvaus=Vaalea talvipäivä lumisilla tuntureilla
+kuva=tunturi.jpg
+taustakuva=tunturi-tausta.jpg
+tausta=#D8E8F6
+otsikko=#4B7FB0
+otsikko_passiivinen=#C3D5E8
+ikkuna=#F2F6FB
+reuna=#3A72A8
+reuna_passiivinen=#B9CADC
+teksti=#1C2A3A
+teksti_himmea=#5F7389
+sulje=#D0504A
+paneeli=#E6EEF7
+paneeli_teksti=#22344A
+korostus=#3A7CC4
+kuva_sha256=817ed87b1927792cbfffbc711c66bfe796c55b57d7186c2b443917bb3dc6c289
+taustakuva_sha256=8cb7d06ddd0ed56d40489197e8ed7edb28561742ffba49aed08705a38c83f845

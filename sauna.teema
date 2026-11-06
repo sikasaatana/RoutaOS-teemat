@@ -1,0 +1,19 @@
+# RoutaOS-teema
+nimi=Sauna
+tekija=Jesse Väisänen
+versio=1.0
+kuvaus=Tumma puu ja kiukaan hehku
+kuva=sauna.jpg
+taustakuva=sauna-tausta.jpg
+tausta=#2A170E
+otsikko=#6A3A20
+otsikko_passiivinen=#2E1C12
+ikkuna=#24150D
+reuna=#E8742C
+reuna_passiivinen=#4A3020
+teksti=#F4E4D6
+teksti_himmea=#B0927C
+sulje=#E0503C
+paneeli=#160C07
+paneeli_teksti=#DCC2AC
+korostus=#F09040

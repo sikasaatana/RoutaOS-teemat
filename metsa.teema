@@ -1,0 +1,19 @@
+# RoutaOS-teema
+nimi=Metsä
+tekija=Jesse Väisänen
+versio=1.0
+kuvaus=Usvainen kuusimetsä
+kuva=metsa.jpg
+taustakuva=metsa-tausta.jpg
+tausta=#1E3A2A
+otsikko=#2F5A44
+otsikko_passiivinen=#1C3326
+ikkuna=#16281E
+reuna=#8FC79A
+reuna_passiivinen=#2E4A3A
+teksti=#E2EFE4
+teksti_himmea=#8AA894
+sulje=#E07060
+paneeli=#0F1E16
+paneeli_teksti=#B8D4BE
+korostus=#8FC79A

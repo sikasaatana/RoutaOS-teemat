@@ -1,0 +1,11 @@
+# RoutaOS-teema (vain pakolliset varit: muut johdetaan)
+nimi=Kaamos
+tekija=Jesse Väisänen
+versio=1.0
+kuvaus=Syvä sininen kaamosyö ja oranssi katuvalo
+kuva=kaamos.jpg
+taustakuva=kaamos-tausta.jpg
+tausta=#0E1030
+ikkuna=#15183A
+teksti=#E6E4F5
+korostus=#F2A65A

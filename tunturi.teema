@@ -1,0 +1,19 @@
+# RoutaOS-teema
+nimi=Tunturi
+tekija=Jesse Väisänen
+versio=1.0
+kuvaus=Vaalea talvipäivä lumisilla tuntureilla
+kuva=tunturi.jpg
+taustakuva=tunturi-tausta.jpg
+tausta=#D8E8F6
+otsikko=#4B7FB0
+otsikko_passiivinen=#C3D5E8
+ikkuna=#F2F6FB
+reuna=#3A72A8
+reuna_passiivinen=#B9CADC
+teksti=#1C2A3A
+teksti_himmea=#5F7389
+sulje=#D0504A
+paneeli=#E6EEF7
+paneeli_teksti=#22344A
+korostus=#3A7CC4

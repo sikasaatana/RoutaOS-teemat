@@ -1,0 +1,19 @@
+# RoutaOS-teema
+nimi=Hämärä
+tekija=Jesse Väisänen
+versio=1.0
+kuvaus=Violetti iltahämärä ja kuunsirppi
+kuva=hamara.jpg
+taustakuva=hamara-tausta.jpg
+tausta=#2A1A40
+otsikko=#5A3A82
+otsikko_passiivinen=#2E2044
+ikkuna=#231835
+reuna=#E08AB0
+reuna_passiivinen=#45335E
+teksti=#EFE6FA
+teksti_himmea=#A291BA
+sulje=#F0708A
+paneeli=#170F24
+paneeli_teksti=#CDBEE2
+korostus=#E08AB0

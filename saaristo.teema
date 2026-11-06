@@ -1,0 +1,19 @@
+# RoutaOS-teema
+nimi=Saaristo
+tekija=Jesse Väisänen
+versio=1.0
+kuvaus=Meri, luodot ja auringonlasku
+kuva=saaristo.jpg
+taustakuva=saaristo-tausta.jpg
+tausta=#0F3A4A
+otsikko=#1F5E6E
+otsikko_passiivinen=#143844
+ikkuna=#102E3A
+reuna=#F0A878
+reuna_passiivinen=#2A4E5A
+teksti=#E6F2F2
+teksti_himmea=#88A8AE
+sulje=#F07060
+paneeli=#0A222C
+paneeli_teksti=#BFD8DA
+korostus=#F0A878

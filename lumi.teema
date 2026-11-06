@@ -1,0 +1,11 @@
+# RoutaOS-teema (vain pakolliset varit)
+nimi=Lumi
+tekija=Jesse Väisänen
+versio=1.0
+kuvaus=Puhtaan valkoinen ja hiljainen
+kuva=lumi.jpg
+taustakuva=lumi-tausta.jpg
+tausta=#EEF3F9
+ikkuna=#FFFFFF
+teksti=#22303E
+korostus=#5B8DC8

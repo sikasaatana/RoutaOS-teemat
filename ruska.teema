@@ -1,0 +1,19 @@
+# RoutaOS-teema
+nimi=Ruska
+tekija=Jesse Väisänen
+versio=1.0
+kuvaus=Syksyn ruska: lämmin ruskea ja oranssi
+kuva=ruska.jpg
+taustakuva=ruska-tausta.jpg
+tausta=#2A1810
+otsikko=#7A3418
+otsikko_passiivinen=#3A2418
+ikkuna=#2F1E16
+reuna=#E8742C
+reuna_passiivinen=#5A3B2A
+teksti=#F6E3D3
+teksti_himmea=#B08C74
+sulje=#D9483B
+paneeli=#1E110B
+paneeli_teksti=#E2C2A8
+korostus=#F0A030

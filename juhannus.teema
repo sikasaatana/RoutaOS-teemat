@@ -1,0 +1,19 @@
+# RoutaOS-teema
+nimi=Juhannus
+tekija=Jesse Väisänen
+versio=1.0
+kuvaus=Yötön yö: vaalea kulta ja järven hehku
+kuva=juhannus.jpg
+taustakuva=juhannus-tausta.jpg
+tausta=#FBE7C8
+otsikko=#C98A4A
+otsikko_passiivinen=#EED9BE
+ikkuna=#FFF8EE
+reuna=#B8742E
+reuna_passiivinen=#E2CBAE
+teksti=#3A2A1C
+teksti_himmea=#7E6650
+sulje=#C8463A
+paneeli=#F6E4CC
+paneeli_teksti=#4A3624
+korostus=#C47A30
